@@ -1,2 +1,2 @@
-# supreme-octo-fiesta
-Web3 Education Wiki
+# Web3 Education Wiki
+This is a community-managed resource and we welcome your contributions
